@@ -5,7 +5,6 @@ You can use the [diary templates](https://github.com/sbbrody/website-demo/edit/m
 ### Templates
 
 Templates are available for 
-```markdown
 
 ### Red Wines
 ### White Wines
@@ -18,7 +17,7 @@ Templates are available for
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
