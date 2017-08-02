@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Wine Diaries
 
-You can use the [editor on GitHub](https://github.com/sbbrody/website-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [diary templates](https://github.com/sbbrody/website-demo/edit/master/README.md) to record and organize the wines you have enjoyed, hated and everything in between.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Templates
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Templates are available for 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Red Wines
+### White Wines
+### Rose Wines
+### Amber or Orange Wines
+### Dessert Wines
+### Sparkling Wines
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
